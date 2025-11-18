@@ -1,0 +1,22 @@
+Welcome to Library Book Manager CLI
+===================================
+
+1. Add / Update Book
+2. View Books
+3. Search Book
+4. Borrow Book
+5. Return Book
+6. View Borrowed Records
+7. Save to CSV
+8. Load from CSV
+0. Exit
+
+Enter choice: 1
+--- Add / Update Book ---
+Enter Book ID: B101
+Enter Book Title: Python Programming
+Enter Author Name: John Doe
+Enter number of copies: 3
+Book B101 added successfully.
+
+Press Enter to continue...
