@@ -1,0 +1,10 @@
+STUDENT PROFILE
+--------------------------------------------------
+Name: Ritik
+Roll No: 2501201011
+Course: BCA
+University: K.R. Mangalam University
+City: Delhi
+Age: 18
+Hobby: Coding
+--------------------------------------------------
