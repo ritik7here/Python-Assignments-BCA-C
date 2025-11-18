@@ -1,0 +1,82 @@
+============================================================
+🎓 Welcome to Student Profile Generator CLI
+============================================================
+This tool will collect your details and generate your profile card.
+You will also learn Python basics like:
+- Variables
+- Data Types
+- Operators
+- String Functions
+- File Handling
+
+Enter your full name: John Sharma
+Enter your roll number: 23BCA101
+Enter your program (e.g., BCA): BCA
+Enter your university name: K.R. Mangalam University
+Enter your city: Patiala
+Enter your age: 18
+Enter your hobby: Coding
+
+✅ Student Data Recorded Successfully!
+
+============================================================
+🔢 Python Operators Demonstration
+============================================================
+Enter first number: 10
+Enter second number: 5
+
+-- Arithmetic Operations --
+10.0 + 5.0 = 15.0
+10.0 - 5.0 = 5.0
+10.0 * 5.0 = 50.0
+10.0 / 5.0 = 2.0
+10.0 % 5.0 = 0.0
+10.0 ** 5.0 = 100000.0
+10.0 // 5.0 = 2.0
+
+-- Assignment Operator Example --
+num1 += 5 → 15.0
+
+-- Comparison Operators --
+10.0 > 5.0 : True
+10.0 < 5.0 : False
+10.0 == 5.0 : False
+
+-- Logical Operators --
+(10.0 > 5.0) and (10.0 != 5.0) : True
+
+-- Identity Operators --
+num1 is num2 : False
+num1 is not num2 : True
+
+-- Membership Operators --
+'a' in your name? : True
+
+============================================================
+🔤 String Formatting & Methods Demo
+============================================================
+Uppercase name: JOHN SHARMA
+Lowercase name: john sharma
+Title case name: John Sharma
+Name length: 11
+Replace a with @: John Sh@rm@
+
+------------------------------------------------------------
+          STUDENT PROFILE SYSTEM
+------------------------------------------------------------
+Name:            John Sharma
+Roll No:         23BCA101
+Course:          BCA
+University:      K.R. Mangalam University
+City:            Patiala
+Age:             18
+Hobby:           Coding
+------------------------------------------------------------
+Welcome to Python Programming! ✅
+------------------------------------------------------------
+
+Do you want to save your profile? (yes/no): yes
+
+✅ Profile saved to student_profile.txt
+
+🎯 Thank you for using Student Profile CLI!
