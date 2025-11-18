@@ -9,11 +9,11 @@ You will also learn Python basics like:
 - String Functions
 - File Handling
 
-Enter your full name: John Sharma
-Enter your roll number: 23BCA101
+Enter your full name: Ritik
+Enter your roll number: 2501201011
 Enter your program (e.g., BCA): BCA
 Enter your university name: K.R. Mangalam University
-Enter your city: Patiala
+Enter your city: Delhi
 Enter your age: 18
 Enter your hobby: Coding
 
