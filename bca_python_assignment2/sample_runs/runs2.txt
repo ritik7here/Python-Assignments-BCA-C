@@ -1,0 +1,16 @@
+Run 2 - Borrowing + Viewing Books
+
+Enter choice: 2
+--- Library Books ---
+Book ID  Title                     Author              Copies
+---------------------------------------------------------------
+B101     Python Programming        John Doe            3
+---------------------------------------------------------------
+
+Enter choice: 4
+--- Borrow Book ---
+Enter Student Name: Amit
+Enter Book ID: B101
+Amit borrowed B101 successfully.
+
+Press Enter to continue...
