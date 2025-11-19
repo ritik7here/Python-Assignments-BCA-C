@@ -1,5 +1,5 @@
 ============================================================
-🎓 Welcome to Student Profile Generator CLI
+Welcome to Student Profile Generator CLI
 ============================================================
 This tool will collect your details and generate your profile card.
 You will also learn Python basics like:
@@ -17,10 +17,10 @@ Enter your city: Delhi
 Enter your age: 18
 Enter your hobby: Coding
 
-✅ Student Data Recorded Successfully!
+Student Data Recorded Successfully!
 
 ============================================================
-🔢 Python Operators Demonstration
+Python Operators Demonstration
 ============================================================
 Enter first number: 10
 Enter second number: 5
@@ -50,33 +50,33 @@ num1 is num2 : False
 num1 is not num2 : True
 
 -- Membership Operators --
-'a' in your name? : True
+'i' in your name? : True
 
 ============================================================
-🔤 String Formatting & Methods Demo
+String Formatting & Methods Demo
 ============================================================
-Uppercase name: JOHN SHARMA
-Lowercase name: john sharma
-Title case name: John Sharma
-Name length: 11
-Replace a with @: John Sh@rm@
+Uppercase name: RITIK
+Lowercase name: ritik
+Title case name: Ritik
+Name length: 5
+Replace i with !: R!t!k
 
 ------------------------------------------------------------
           STUDENT PROFILE SYSTEM
 ------------------------------------------------------------
-Name:            John Sharma
-Roll No:         23BCA101
+Name:            Ritik
+Roll No:         2501201011
 Course:          BCA
 University:      K.R. Mangalam University
-City:            Patiala
+City:            Baprola
 Age:             18
 Hobby:           Coding
 ------------------------------------------------------------
-Welcome to Python Programming! ✅
+Welcome to Python Programming!
 ------------------------------------------------------------
 
 Do you want to save your profile? (yes/no): yes
 
-✅ Profile saved to student_profile.txt
+Profile saved to student_profile.txt
 
-🎯 Thank you for using Student Profile CLI!
+Thank you for using Student Profile CLI!
