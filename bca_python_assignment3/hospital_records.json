@@ -1,0 +1,13 @@
+{
+    "patients": {
+        "1234": {
+            "name": "Ritik",
+            "patient_id": "1234",
+            "age": "18",
+            "disease": "Hand Fracture",
+            "status": "Admitted",
+            "doctor_id": null
+        }
+    },
+    "doctors": {}
+}
