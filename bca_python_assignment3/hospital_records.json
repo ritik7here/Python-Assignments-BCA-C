@@ -1,13 +1,19 @@
 {
     "patients": {
-        "1234": {
+        "P101": {
             "name": "Ritik",
-            "patient_id": "1234",
+            "patient_id": "P101",
             "age": "18",
             "disease": "Hand Fracture",
             "status": "Admitted",
             "doctor_id": null
         }
     },
-    "doctors": {}
+    "doctors": {
+        "D55": {
+            "name": "Dr. Ahuja",
+            "doctor_id": "D55",
+            "specialization": "Orthopedic"
+        }
+    }
 }
