@@ -1,0 +1,80 @@
+======= Hospital Management System =======
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Discharge Patient
+5. Add Doctor
+6. View Doctors
+7. Assign Doctor to Patient
+8. Save Records
+9. Load Records
+0. Exit
+Enter choice: 1
+
+--- Add Patient ---
+Enter Patient ID: P101
+Enter name: Ritik
+Enter age: 18
+Enter disease: Hand Fracture
+Patient added successfully.
+
+======= Hospital Management System =======
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Discharge Patient
+5. Add Doctor
+6. View Doctors
+7. Assign Doctor to Patient
+8. Save Records
+9. Load Records
+0. Exit
+Enter choice: 5
+
+--- Add Doctor ---
+Enter Doctor ID: D55
+Enter Doctor Name: Dr. Vicky
+Enter Specialization: Orthopedic
+Doctor added successfully.
+
+======= Hospital Management System =======
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Discharge Patient
+5. Add Doctor
+6. View Doctors
+7. Assign Doctor to Patient
+8. Save Records
+9. Load Records
+0. Exit
+Enter choice: 8
+Data saved successfully.
+
+======= Hospital Management System =======
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Discharge Patient
+5. Add Doctor
+6. View Doctors
+7. Assign Doctor to Patient
+8. Save Records
+9. Load Records
+0. Exit
+Enter choice: 9
+Data loaded successfully.
+
+======= Hospital Management System =======
+1. Add Patient
+2. View Patients
+3. Search Patient
+4. Discharge Patient
+5. Add Doctor
+6. View Doctors
+7. Assign Doctor to Patient
+8. Save Records
+9. Load Records
+0. Exit
+Enter choice:
+
